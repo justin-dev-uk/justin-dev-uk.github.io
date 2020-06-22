@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "DEVNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rKYGqW6y7VPryFoVhsRt672edNYFd8a7CQ"
+      }
+    }
+  ],
+  "payId": "pay$uk-dev-justin.github.io"
+}
