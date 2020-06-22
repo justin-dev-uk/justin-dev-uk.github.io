@@ -2,7 +2,7 @@
   "addresses": [
     {
       "paymentNetwork": "XRPL",
-      "environment": "DEVNET",
+      "environment": "TESTNET",
       "addressDetailsType": "CryptoAddressDetails",
       "addressDetails": {
         "address": "r9QmvKrX6EcwDgAwB1oGxhSgw8yMWnW5qW"
